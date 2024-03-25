@@ -1,1 +1,24 @@
+= Dette er en test af AsciiDocs genkendelse på https://github.com[GitHub]
+
+== Andet afsnit
+
+* List element 1
+* List element 2
+* List element 3
+
+1. Element 1
+2. Element 2
+3. Element 3
+
+----
+
+Dette er *kursiv* tekst og dette er **fed** tekst
+Her kommer en ***fed og kursiv*** tekst
+
+> Dette er en `Blockquote` tekst
+
+```
+Dette er code fenced tekst
+På flere linjer
+```
 
